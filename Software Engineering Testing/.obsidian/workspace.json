@@ -1,0 +1,167 @@
+{
+  "main": {
+    "id": "c8aeec08e5a3f2a9",
+    "type": "split",
+    "children": [
+      {
+        "id": "f9cf65fcef4a32ee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bbd2ca9b0339637e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pytest.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6521ee1be184a34f",
+    "type": "split",
+    "children": [
+      {
+        "id": "cf3e8c04102d84a8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c7ec7831f97d142d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "30104218b53b956e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8855baa974f36483",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "right": {
+    "id": "0e727bf34bb0f0c9",
+    "type": "split",
+    "children": [
+      {
+        "id": "eface237f7bc9507",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3abfcf480c7432cd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "pytest.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2be62f85a7481bab",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "pytest.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d55b9236e8f2ef1d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a2e637ad0926db76",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "pytest.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "bbd2ca9b0339637e",
+  "lastOpenFiles": [
+    "Pasted image 20231222155641.png",
+    "Pasted image 20231222155105.png",
+    "Pasted image 20231222154400.png",
+    "Pasted image 20231222153447.png",
+    "Pasted image 20231221134323.png",
+    "pytest.md",
+    "Unit Testing.md",
+    "Software testing.md",
+    "Pasted image 20231221134024.png",
+    "Non-Functional Testing.md",
+    "Functional Testing.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "Untitled 2.canvas"
+  ]
+}
