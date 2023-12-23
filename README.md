@@ -9,7 +9,8 @@ After installation, you can type the following command to get to know about the 
 ```
 pytest -h
 ```
-You may follow the project [a relative link](sample_test)
+
+**You may follow the project [sample_test](sample_test) for understanding the below codes better.**
 - For executing all the tests you can type py.test inside cmd when you are in the same directory as the test files.:
 ```
 py.test
@@ -37,6 +38,9 @@ pytest -k "add or string"
 ```
 This will execute the functions containing either "add" or "string" keywords or both.
 - You can add "markers" for your python test functions. Markers are decorators which can be used to identify similar test functions to run only those.
+
+**You may follow the project [pytest_with_options](pytest_with_options) for better understanding**
+
 ```
 import pytest
 @pytest.mark.number
@@ -123,7 +127,7 @@ pytest -q
 We can see no extra details have been printed.
 
 ### Adding parametrize decorator:
-
+Follow [pytest_parameterizing](pytest_parameterizing) codebase for understanding below
 There may be situations when you are testing the same function but for different data types and values. Example can be : 
 ```
 def test_add():
