@@ -21,6 +21,8 @@ Acceptance Testing is used to check if the final product matches with the custom
 
 **Functional Testing : ** Testing the codebase of the software. whether each class,function work as expected. Fixing code related bugs.
 **Non-Functional Testing** : Testing the performance(response time , scalability, load-balancing etc)
+
+## Pytest
 pytest is a python module for executing test-files for python project.
 pytest documentation : [https://docs.pytest.org/en/7.1.x/contents.html]()
 
