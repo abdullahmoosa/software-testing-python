@@ -1,3 +1,26 @@
+## Software Testing
+
+Software Testing is essential for developing the final product. It is essential to understand whether the final product is the "right one" or "the product is working right".
+
+"Right one" means whether the product satisfies the customer requirement.
+
+"The product working right" means whether the product is working correctly without any bugs.
+Two types of testing 
+- Functional Testing 
+- Non-Functional Testing
+
+![image](https://github.com/abdullahmoosa/software-testing-python/assets/67234038/64c0c819-b534-4354-b122-cb33dd537e6b)
+
+Unit Testing is used to check if each class of the codebase is working. 
+Integration Testing is used to check if the software as a whole is working as intended.
+System testing is used to check if the overall software is working without any issues after deployment.
+Acceptance Testing is used to check if the final product matches with the customer requirement.
+
+
+**As a software developer, it is essential to design the "unit tests" to check if each class is working properly.**
+
+**Functional Testing : ** Testing the codebase of the software. whether each class,function work as expected. Fixing code related bugs.
+**Non-Functional Testing** : Testing the performance(response time , scalability, load-balancing etc)
 pytest is a python module for executing test-files for python project.
 pytest documentation : [https://docs.pytest.org/en/7.1.x/contents.html]()
 
