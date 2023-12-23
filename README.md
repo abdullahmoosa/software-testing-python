@@ -82,7 +82,8 @@ When you execute from cmd :
 pytest -v
 ```
 
-![[Pasted image 20231222153447.png]]
+![image](https://github.com/abdullahmoosa/software-testing-python/assets/67234038/fcf1aa5e-e958-4c9c-89bf-6d61a374c165)
+
 You can see the add function is skipped with the reason printed.
 - You can use 'skipif' marker to check for a certain condition when executing the test functions.
 ```
@@ -97,7 +98,7 @@ def test_product():
     assert math_func.product(5) == 10
 ```
 This code will skip the test_product function is the python version is less than 3.12.
-![[Pasted image 20231222154400.png]]
+![image](https://github.com/abdullahmoosa/software-testing-python/assets/67234038/cbc2cd97-5fe9-491d-b7e9-0dde0b04ead6)
 - In general, when executing the test functions, pytest does not print any statements even if it is inside the function.
 ```
 def test_add():
@@ -112,12 +113,12 @@ To print the statement, we can use 's' flag.
 ```
 pytest -s -v
 ```
-![[Pasted image 20231222155105.png]]
+![image](https://github.com/abdullahmoosa/software-testing-python/assets/67234038/3b9b1e00-9f75-4019-8f71-f5355595db5a)
 - To execute the tests in quiet mode(Without any extra details) we can use the 'q' flag.
 ```
 pytest -q
 ```
-![[Pasted image 20231222155641.png]]
+![image](https://github.com/abdullahmoosa/software-testing-python/assets/67234038/1aecc11d-dbe5-4236-aa96-be0dcc74b764)
 We can see no extra details have been printed.
 
 ### Adding parametrize decorator:
