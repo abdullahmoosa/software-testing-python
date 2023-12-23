@@ -9,6 +9,7 @@ After installation, you can type the following command to get to know about the 
 ```
 pytest -h
 ```
+You may follow the project [a relative link](sample_test)
 - For executing all the tests you can type py.test inside cmd when you are in the same directory as the test files.:
 ```
 py.test
